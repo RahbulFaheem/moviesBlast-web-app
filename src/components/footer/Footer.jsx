@@ -25,6 +25,7 @@ const Footer = () => {
                     </a>
                 </div>
             </ContentWrapper>
+            
         </footer>
     );
 };
